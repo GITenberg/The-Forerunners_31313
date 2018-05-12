@@ -14,7 +14,7 @@ contributor:
     - Paul, Maurice Eden
     - Paul, M. Eden (Maurice Eden)
     birthdate: 1865
-    deathdate: &id001 1944
+    deathdate: 1944
     gutenberg_agent_id: '389'
     url: http://www.gutenberg.org/2009/agents/389
     wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
@@ -26,11 +26,13 @@ creator:
     agent_name: Rolland, Romain
     alias: Rollan, R.
     birthdate: 1866
-    deathdate: *id001
+    deathdate: 1944
     gutenberg_agent_id: '2602'
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: 'Sequel to Above the Battle, #32779.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31313#The-Forerunners
 gutenberg_issued: '2010-02-17'
 gutenberg_type: Text
 identifiers:
