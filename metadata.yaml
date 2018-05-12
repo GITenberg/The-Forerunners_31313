@@ -1,0 +1,47 @@
+_repo: The-Forerunners_31313
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Paul, Cedar
+    alias: Davenport, Gertrude Mary
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '390'
+    url: http://www.gutenberg.org/2009/agents/390
+    wikipedia: http://en.wikipedia.org/wiki/Cedar_Paul
+  - agent_name: Paul, Eden
+    aliases:
+    - Paul, Maurice Eden
+    - Paul, M. Eden (Maurice Eden)
+    birthdate: 1865
+    deathdate: &id001 1944
+    gutenberg_agent_id: '389'
+    url: http://www.gutenberg.org/2009/agents/389
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+covers:
+- cover_type: archival
+  image_path: 31313-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: *id001
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: 'Sequel to Above the Battle, #32779.'
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31313'
+  lccn: '21016394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: The Forerunners
+url: http://www.gutenberg.org/ebooks/31313
